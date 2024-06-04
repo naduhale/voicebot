@@ -105,7 +105,7 @@ def main():
 
         # Open AI API 키 입력받기
         openai.api_key = st.text_input(label="OPENAI API 키", placeholder="Enter Your API Key", 
-                                       value="sk-proj-Rv0ATMYbj4nuEbwaCj1ET3BlbkFJTXHLkO23natdFkA44LIM", type="password")
+                                       value="sk-proj-Lfc3CQnj7zNxPZE2dS7GT3BlbkFJp05QUnwlGvcktey2PC3D", type="password")
 
         st.markdown("---")
 
